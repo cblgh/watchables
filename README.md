@@ -10,5 +10,9 @@ run the script to get a thing printed out and into your clipboard
 * you'll need a watchables.txt in the same directory
 * to run it
 
+# hot tips
+* tie it to a hotkey in your Operating System
+* :fire:
+
 # is it good
 yes
